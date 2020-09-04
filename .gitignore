@@ -3,3 +3,7 @@
 *.h5
 *.csv
 *.zip
+*.psv
+*.tsv
+*.xlsx
+*.key
